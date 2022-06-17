@@ -1,6 +1,6 @@
 
 Hi 👋 My name is Brian
-Full Stack Software Developer
+Future Full Stack developer
 
 I'm a 28 year old developer and I'm studying to become Full Stack. I love coding and figuring out how to solve deep problems using cutting edge technology. My main focus is to develop applications that impact the lives of thousands of people.
 
