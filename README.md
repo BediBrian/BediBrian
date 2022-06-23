@@ -1,7 +1,7 @@
-Hi 👋 My name is Brian
+# Hi 👋 My name is Brian
 ==========================
 
-Future Full Stack developer
+***Future Full Stack developer***
 -----------------------------
 
 
